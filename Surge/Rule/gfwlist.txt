@@ -3351,6 +3351,7 @@ DOMAIN-SUFFIXdns.com
 .goodreaders.com
 .goodtv.com.tw
 .goodtv.tv
+.google.com
 .goofind.com
 .gopetition.com
 .goproxing.net
